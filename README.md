@@ -1,5 +1,5 @@
 # nw_multi2bifurcation
-Resolves multifurcation / polytomy in Newick trees eg. from FastTree
+Resolves multifurcation / polytomy in Newick trees eg. from FastTree  
 Note that this is not a true solution, but allows the tree to be imported into software that requires a strictly bifurcating tree eg. ClonalFrameML.
 
 ##Author
