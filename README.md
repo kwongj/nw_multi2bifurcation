@@ -10,20 +10,21 @@ Jason Kwong (@kwongjc)
 
 ```
 $ nw_multi2bifurcation.py -h
-usage: nw_multi2bifurcation.py [-h] [--nosupport] [--out outfile] nwtree
+usage: nw_multi2bifurcation.py [-h] [--nosupport] nwtree
 
 Resolves multifurcation / polytomy in Newick trees eg. from FastTree
 Note that this is not a true solution, but allows the tree to imported into software that requires a strictly bifurcating tree eg. ClonalFrameML
 
 positional arguments:
-  nwtree         Newick tree file
+  nwtree       Newick tree file
 
 optional arguments:
-  -h, --help     show this help message and exit
-  --nosupport    Remove internal node support values from tree eg. for
-                 ClonalFrameML
-  --out outfile  Output file name
+  -h, --help   show this help message and exit
+  --nosupport  Remove internal node support values from tree eg. for
+               ClonalFrameML
 ```
+
+Prints new tree to ```stdout```.
 
 ##Bugs
 
