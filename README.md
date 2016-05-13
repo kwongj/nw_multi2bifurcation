@@ -31,4 +31,4 @@ Please submit via the [GitHub issues page](https://github.com/kwongj/nw_multi2bi
 
 ##Software Licence
 
-[GPLv2](https://github.com/kwongj/nw_multi2bifurcation/blob/master/LICENSE)
+[GPLv3](https://github.com/kwongj/nw_multi2bifurcation/blob/master/LICENCE)
