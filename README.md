@@ -6,6 +6,10 @@ Note that this is not a true solution, but allows the tree to be imported into s
 
 Jason Kwong (@kwongjc)
 
+##Dependencies
+* Python
+* ete2
+
 ##Usage
 
 ```
@@ -33,3 +37,7 @@ Please submit via the [GitHub issues page](https://github.com/kwongj/nw_multi2bi
 ##Software Licence
 
 [GPLv3](https://github.com/kwongj/nw_multi2bifurcation/blob/master/LICENCE)
+
+##References
+
+[ETE Toolkit](http://etetoolkit.org/docs/latest/reference/reference_tree.html)
